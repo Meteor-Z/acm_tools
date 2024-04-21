@@ -14,5 +14,6 @@
 - [codeblocks](https://github.com/anbangli/codeblocks-cn?tab=readme-ov-file)
   - 从上述地址中下载，直接就是中文的，挺不错的。
   - [官网网址](https://www.codeblocks.org/downloads/binaries/), 下载这个`codeblocks-20.03mingw-setup.exe` 这个字样的
-- devc++: 这个太老了，找不到相关的程序了，直接从本仓库中下载即可（还未上传）
+- devc++: 这个太老了，找不到相关的程序了，直接从本仓库中下载即可 `backup`中下载即可
+  - 最高支持的是C++11,不过够用了，在编译选项中，加入`std=c++11`这个选项
 - [VS](https://visualstudio.microsoft.com/zh-hans/),额。这个太大了，虽说挺好用的，但是下载一次吃不消。。
